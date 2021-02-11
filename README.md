@@ -1,7 +1,7 @@
 # 2020 Kaggle Machine Learning & Data Science Survey
 
 ## Context
-Code within this repository is the work I have done to analyze to gain some insight from Kaggle's <a href="https://www.kaggle.com/c/kaggle-survey-2020">Survey Competition<a>. 
+Code within this repository is the work I have done to analyze to gain some insight from Kaggle's <a href="https://www.kaggle.com/c/kaggle-survey-2020">Survey Competition</a>. Also, in order to view the original Kaggle Notebook please follow this <a href="https://www.kaggle.com/damoonshahhosseini/brainstorming">link</a>. 
 
 # Data Preprocessing
 The survey data has a specific structure where it would be convinient to clean and change some attributes of the dataframe. Some problems:
